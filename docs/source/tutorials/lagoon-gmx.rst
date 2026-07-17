@@ -52,7 +52,7 @@ The Guard contract validates all GMX calls to ensure:
 - Order receivers are whitelisted (Safe address only)
 - Only approved markets and collateral tokens can be used
 
-For security details, see the `README-GMX-Lagoon.md <https://github.com/tradingstrategy-ai/web3-ethereum-defi/blob/master/README-GMX-Lagoon.md>`__ file.
+For security details, see the `README-GMX-Lagoon.md <https://github.com/tradingstrategy-ai/web3-ethereum-defi/blob/master/eth_defi/gmx/README-GMX-Lagoon.md>`__ file.
 
 ERC-7540 deposit/redeem flow
 -----------------------------

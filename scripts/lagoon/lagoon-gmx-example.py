@@ -66,7 +66,7 @@ The Guard contract validates all GMX calls to ensure:
 - Order receivers are whitelisted (Safe address only)
 - Only approved markets and collateral tokens can be used
 
-For security details, see: README-GMX-Lagoon.md
+For security details, see: eth_defi/gmx/README-GMX-Lagoon.md
 
 
 Testnet mode
